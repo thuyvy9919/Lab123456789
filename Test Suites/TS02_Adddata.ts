@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS02_Adddata</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0d5b33aa-5fe0-45c6-935a-1c708f5858ad</testSuiteGuid>
+   <testCaseLink>
+      <guid>8136ebc4-f4e0-445c-abb6-9575a8c26995</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC6_AddDataFile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>70d1a4ee-2a7d-4540-a2a0-f074af609975</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataExcel</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>70d1a4ee-2a7d-4540-a2a0-f074af609975</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>c09fe5ab-30d0-4ff4-a121-b04dc5570f6c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>70d1a4ee-2a7d-4540-a2a0-f074af609975</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>77a62cad-2289-437b-87b7-fc14efa9134b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

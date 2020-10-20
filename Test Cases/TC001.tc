@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1325ec6b-0ff7-4812-ad68-1f11491dfdeb</testCaseGuid>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>2ea7ccfc-aab4-4540-b0b0-63d453428a08</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'John Doe\r\n'</defaultValue>
+      <description></description>
+      <id>ba31479a-370e-4e57-99be-43751fd89451</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>5b88ec30-8a2a-48be-9bf7-b51dc930f85f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

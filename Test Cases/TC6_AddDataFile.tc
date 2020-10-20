@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_AddDataFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf45ef86-01f8-443b-9ca4-75e12ee7b8ad</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c09fe5ab-30d0-4ff4-a121-b04dc5570f6c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77a62cad-2289-437b-87b7-fc14efa9134b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
